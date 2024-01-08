@@ -1,4 +1,4 @@
-package com.ebisys.waterwatche;
+package com.ebisys.waterwatch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,7 +10,5 @@ public class WaterwatcheApplication {
 
         SpringApplication.run(WaterwatcheApplication.class, args);
                 System.out.println(" W salamo ");
-
-
     }
 }
